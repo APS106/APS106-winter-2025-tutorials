@@ -31,7 +31,7 @@
 ```
 
 #### Creating JupyterHub Links
-https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-winter-2025-tutorials&urlpath=tree%2FAPS106-winter-2025-tutorials%2F{TUTORIAL-NAME}%2F{SUB-FOLDER}%2F{FILENAME}b&branch=master
+https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-winter-2025-tutorials&urlpath=tree%2FAPS106-winter-2025-tutorials%2F{TUTORIAL-NAME}%2F{SUB-FOLDER}%2F{FILENAME}&branch=master
 
 For example, if I want to link to the starter notebook file (tutorial0_starter.ipynb) in the master subfolder for tutorial 0, I would use the following link.
 https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-winter-2025-tutorials&urlpath=tree%2FAPS106-winter-2025-tutorials%2Ftutorial0%2Fmaster%2Ftutorial0_starter.ipynb&branch=master
