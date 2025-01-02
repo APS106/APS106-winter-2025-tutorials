@@ -6,13 +6,17 @@
 ```bash
 ├── tutorial0
 │   ├── master
-│   │   ├── images
+│   │   ├── README.md (Includes link to Google Slides)
+│   │   ├── images (Any images to appear in the notebooks unless embedded)
+│   │   │   ├── image1.jpg
+│   │   │   ├── image2.png
 │   │   ├── tutorial0_starter.ipynb
 │   │   ├── tutorial0_complete.ipynb
 │   │   ├── utils.py
 │   │   ├── data.txt
-│   │   ├── tutorial0.pptx
-│   │   ├── tutorial0.pdf
+│   │   ├── tutorial0.pptx (Include presentation file if slides are used)
+│   │   ├── tutorial0.pdf (Include presentation file if slides are used)
+│   │   ├── tutorial0.zip (Includes all files for students not wanting to use JupyterHub)
 │   ├── ali
 │   ├── james
 │   ├── minori
