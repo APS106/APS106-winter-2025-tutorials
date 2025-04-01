@@ -1,0 +1,4 @@
+Number of Students: 82
+Mean Average Score: 75.29
+Highest Average Score: 96.33
+Lowest Average Score: 54.67
