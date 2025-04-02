@@ -68,7 +68,10 @@ class Book:
         self.is_checked_out = False
 
     def __str__(self):
-        status = "[Checked Out]" if self.is_checked_out else "[Available]"
+        if self.is_checked_out:
+            status = "[Checked Out]"
+        else: 
+            status = "[Available]"
         return status + " " + self.title + " by " + self.author + " (" + str(self.year) + ")"
 
 class Library:
