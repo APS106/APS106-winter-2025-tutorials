@@ -1,0 +1,10 @@
+title,author,year,is_checked_out
+Clean Code,Robert C. Martin,2008,false
+Effective Python,Brett Slatkin,2015,true
+Automate the Boring Stuff with Python,Al Sweigart,2020,false
+The Pragmatic Programmer,Andrew Hunt,1999,true
+The Art of Computer Programming,Donald Knuth,1968,false
+The C Programming Language,Brian W. Kernighan,1978,true
+The Art of Fielding,Donald E. Knuth,1983,false
+The Art of Computer Programming,Donald Knuth,1968,false
+The C Programming Language,Brian W. Kernighan,1978,true
